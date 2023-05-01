@@ -1,4 +1,5 @@
 - #### AR Application in Andriod and IOS (2022.12-2023.01)
+  [My Demo videos using Vuforia in Android and AR Foundation in IOS](https://www.wenjiehuang.net/general-8)
   ![image](https://user-images.githubusercontent.com/82434538/235371164-8b1be4ab-5726-492f-bbd1-ec467e0b1523.png)
   ***Repository:*** [AR Application(IOS)](https://github.com/SZU-WenjieHuang/AR)\
   ***Framework:*** [Unity AR Foundation](https://github.com/Unity-Technologies/arfoundation-samples)\
